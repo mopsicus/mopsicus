@@ -5,7 +5,7 @@
 ##### NOW
 
 - 📝 I’m write article about native plugins in Unity
-- ⚙️ I’m develop new tool for my Unity projects (will be public soon)
+- ⚙️ I’m develop new tool for my Unity projects: 🦎 [MoDI](https://github.com/mopsicus/modi)
 
 ##### BIO
 
