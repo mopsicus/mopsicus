@@ -4,9 +4,8 @@
 
 ##### NOW
 
+- 🕹️ I’m plan to make my online Unity course: "Developing multiplayer online games on Unity and Node.js"
 - 📚 I'm develop system for personal knowledge base
-- 📝 I’m write article about native plugins in Unity
-- ⚙️ I’m develop tool for my Unity projects: [MoDI](https://github.com/mopsicus/modi)
 
 ##### BIO
 
@@ -15,3 +14,8 @@
 - 💬 Ask me about **unity**, **c#**, **mobile game development**, **nodejs**, **online games**, **native plugins**
 - 📫 How to reach me: [@mopsicus](http://t.me/mopsicus) or [mail@mopsicus.ru](mailto:mail@mopsicus.ru)
 - ⚡ Fun fact: I remember the times when internet modems made sounds like: beeep-hiss-beep-beep-chirp-hissss
+
+##### ARTICLES (RUS)
+- 🔌 [Developing Android and iOS plugins for Unity](https://habr.com/ru/post/581160/)
+- ⚙️ [Unity and ECS](https://habr.com/ru/post/358108/)
+- 📦 [Simple custom CI/CD on bash](https://habr.com/ru/post/479884/)
