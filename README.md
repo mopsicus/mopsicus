@@ -4,12 +4,13 @@
 
 ##### NOW
 
+- 💮 I'm port mobile games to Huawei AppGallery (authorization, notifications, in-apps)
 - 🕹️ I’m plan to make my online Unity course: "Developing multiplayer online games on Unity and Node.js"
 - 📚 I'm develop system for personal knowledge base
 
 ##### BIO
 
-- 🎮 I’m currently working on new online mobile game
+- 🎮 I’m currently working on new online mobile games
 - 🌱 I’m currently learning Node.js, JS and React
 - 💬 Ask me about **unity**, **c#**, **mobile game development**, **nodejs**, **online games**, **native plugins**
 - 📫 How to reach me: [@mopsicus](http://t.me/mopsicus) or [mail@mopsicus.ru](mailto:mail@mopsicus.ru)
