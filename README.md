@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 💮 I'm port mobile games to Huawei AppGallery (authorization, notifications, in-apps)
+- 🌐 I'm develop WebGL versions of our mobile games on Unity
 - 🕹️ I’m plan to make my online Unity course: "Developing multiplayer online games on Unity and Node.js"
 - 📚 I'm develop system for personal knowledge base
 
