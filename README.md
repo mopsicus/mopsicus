@@ -20,3 +20,4 @@
 - 🔌 [Developing Android and iOS plugins for Unity](https://habr.com/ru/post/581160/)
 - ⚙️ [Unity and ECS](https://habr.com/ru/post/358108/)
 - 📦 [Simple custom CI/CD on bash](https://habr.com/ru/post/479884/)
+- 🧰 [Unity Builder Bot](https://dtf.ru/gamedev/1224235-unity-builder-bot)
