@@ -4,14 +4,14 @@
 
 ##### NOW
 
-- 🌐 I'm develop WebGL versions of our mobile games on Unity
+- 🌐 I'm develop new puzzle mobile game on Unity
 - 🕹️ I’m plan to make my online Unity course: "Developing multiplayer online games on Unity and Node.js"
 - 📚 I'm develop system for personal knowledge base
 
 ##### BIO
 
 - 🎮 I’m currently working on new online mobile games
-- 🌱 I’m currently learning Node.js, JS and React
+- 🌱 I’m currently learning Node.js and TS
 - 💬 Ask me about **unity**, **c#**, **mobile game development**, **nodejs**, **online games**, **native plugins**
 - 📫 How to reach me: [@mopsicus](http://t.me/mopsicus) or [mail@mopsicus.ru](mailto:mail@mopsicus.ru)
 - ⚡ Fun fact: I remember the times when internet modems made sounds like: beeep-hiss-beep-beep-chirp-hissss
