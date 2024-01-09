@@ -4,9 +4,9 @@
 
 ##### NOW
 
-- 🌐 I'm develop new puzzle mobile game on Unity
+- 🌐 I'm develop telegram bot game
+- 🧩 I'm develop framework for multiplayer online games
 - 🕹️ I’m plan to make my online Unity course: "Developing multiplayer online games on Unity and Node.js"
-- 📚 I'm develop system for personal knowledge base
 
 ##### BIO
 
