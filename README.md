@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🌐 I'm develop telegram bot game
+- 🌐 I'm develop new mobile card game
 - 🧩 I'm develop framework for multiplayer online games
 - 🕹️ I’m plan to make my online Unity course: "Developing multiplayer online games on Unity and Node.js"
 
