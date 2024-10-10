@@ -5,7 +5,7 @@
 ##### NOW
 
 - 🌐 I'm develop new mobile card game
-- 🧩 I'm develop framework for multiplayer online games
+- 🧩 I'm develop framework for multiplayer online games: [Shardy](https://github.com/shardy)
 - 🕹️ I’m plan to make my online Unity course: "Developing multiplayer online games on Unity and Node.js"
 
 ##### BIO
